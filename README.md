@@ -2,7 +2,7 @@
 <h1 align="center"><hr>Hello! I am Chirantan.<hr></h1>
 <h2><u>Github Stats:</u></h2>
 
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=seccodegenius&show_icons=true&count_private=true&theme=highcontrast"></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=seccodegenius&show_icons=true&count_private=true&theme=midnight-purple"></p>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seccodegenius&theme=highcontrast"></p>
 
    <h2><u>Skills and Tools:</u><h2>
